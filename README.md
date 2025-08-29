@@ -1,2 +1,1 @@
-# math_box
-math_box git ex
+### 수학 계산을 위한 코드르 제공하는 프로젝트
