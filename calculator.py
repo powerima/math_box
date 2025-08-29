@@ -8,5 +8,5 @@ def substracat(a, b):
 def multiply(a, b):
   return a*b
 
-def divide(a, b):
+def divide_free(a, b):
   retur a/b
